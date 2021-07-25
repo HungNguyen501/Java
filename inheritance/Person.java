@@ -1,4 +1,4 @@
-package inheritance;
+package Java.inheritance;
 
 public class Person {
     protected String name;

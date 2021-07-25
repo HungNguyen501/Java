@@ -1,4 +1,4 @@
-package BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
+package Java.BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
 
 abstract class Product {
     protected String title;

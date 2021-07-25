@@ -1,4 +1,4 @@
-package exception;
+package Java.exception;
 
 public class Birthday {
     private int day, month;

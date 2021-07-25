@@ -1,4 +1,4 @@
-package exception;
+package Java.exception;
 
 public class WrongBirthday extends Exception{
 

@@ -1,4 +1,4 @@
-package BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
+package Java.BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
 
 class CD extends Product{
     private String artist;

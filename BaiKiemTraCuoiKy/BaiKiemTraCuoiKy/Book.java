@@ -1,4 +1,4 @@
-package BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
+package Java.BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
 
 class Book extends Product{
     private String author;

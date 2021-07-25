@@ -1,4 +1,4 @@
-package BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
+package Java.BaiKiemTraCuoiKy.BaiKiemTraCuoiKy;
 
 import java.util.ArrayList;
 import java.util.List;

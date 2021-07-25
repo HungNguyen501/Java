@@ -1,4 +1,4 @@
-package template;
+package Java.template;
 
 public class Generic<T> {
     T array[];

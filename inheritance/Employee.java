@@ -1,4 +1,4 @@
-package inheritance;
+package Java.inheritance;
 
 public class Employee extends Person {
     public Employee(String name) {
